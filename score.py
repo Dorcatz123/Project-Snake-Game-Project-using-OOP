@@ -21,11 +21,11 @@ class Score(Turtle):
 #Use opwn file command to read previous score or update high scores:
     def read_highscorefile(self):
         #with open("C:\\Users\\aksha\\OneDrive\\Desktop\\data", "r") as file:
-        with open("../../PycharmProject/snake_game/data", "r") as file:
+        with open("./data.txt", "r") as file:
             self.high_score = int(file.read())
 
     def update_highscore(self):
-        with open("C:\\Users\\aksha\OneDrive\\Desktop\\data", "w") as file:
+        with open("./data.txt", "w") as file:
             file.write(f"{self.high_score}")
 
 

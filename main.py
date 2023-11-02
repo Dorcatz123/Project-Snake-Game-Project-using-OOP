@@ -35,7 +35,9 @@ screen.onkeypress(key="w", fun=snake.turn_up)
 
 while game_is_on:
     screen.update()
-    time.sleep(0.1)
+#modify the argument in time.sleep() to increase the speed of the snake:
+    # warning: 0.01 will make it too fast! so try from 0.09 and down...
+    time.sleep(0.09)
     snake.move()
 
     # Detect collision with food.
