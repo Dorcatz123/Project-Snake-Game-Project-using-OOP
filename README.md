@@ -1,5 +1,12 @@
 Title:************* Snake Game****************************
 
+***Link to my video tutorial on how to build python game:
+
+
+ https://www.youtube.com/watch?v=uFBIGcMH7SM&t=9s
+
+
+
 **Description:
 
 This Snake Game is a classic implementation of the popular Snake game that we play in mobile phones. This game is entirely created using basic python concepts such as OOP's, datatypes, control flows and very useful modules such as the turtle module, random module and the time module. The objective of the game is to control a snake that grows in length as it consumes food items while avoiding collisions with walls and its own tail. 
@@ -34,10 +41,7 @@ This game is the best to sharpen your reflexes. if you really want to push the l
 This game is entirely built on python. It showcases a classical game development capabilities of the python libraries such as the turtle module. This project is a perfect example of showcasing basic python coding skills to built an amazing game for fun or for educational purpose!
 
 
-***Link to my video tutorial on how to build python game:
 
-
- https://www.youtube.com/watch?v=uFBIGcMH7SM&t=9s
 
 
 
