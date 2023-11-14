@@ -1,6 +1,6 @@
 Title:************* Snake Game****************************
 
-***Link to my video tutorial on how to build python game:
+***Link to my video tutorial on how to build python snake game:
 
 
  https://www.youtube.com/watch?v=uFBIGcMH7SM&t=9s
