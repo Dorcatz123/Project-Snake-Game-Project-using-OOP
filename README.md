@@ -34,3 +34,11 @@ This game is the best to sharpen your reflexes. if you really want to push the l
 This game is entirely built on python. It showcases a classical game development capabilities of the python libraries such as the turtle module. This project is a perfect example of showcasing basic python coding skills to built an amazing game for fun or for educational purpose!
 
 
+***Link to my video tutorial on how to build python game:
+
+
+ https://www.youtube.com/watch?v=uFBIGcMH7SM&t=9s
+
+
+
+
