@@ -4,6 +4,11 @@ Title:************* Snake Game****************************
 
 
  https://www.youtube.com/watch?v=uFBIGcMH7SM&t=9s
+ 
+
+![snake_game](https://github.com/Dorcatz123/Snake-Game-Project-using-OOP/assets/120886051/a02d71bd-765f-40de-8d98-8e354df2a955)
+
+
 
 
 
